@@ -2,6 +2,6 @@
 \\Esto es un comentario
 int main ()
 {
-	printf("Peueba Github");
+	printf("Prueba Github");
 	return 0;
 }
